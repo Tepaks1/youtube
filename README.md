@@ -5,40 +5,41 @@
   Is a simple tool for Facebook.
 </h4>
 <div align="center">
-  <a href="https://github.com/dz-id">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/dz-id/fb-bot.svg"/>
+  <a href="https://github.com/Tepaks1/youtube.git">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Tepaks1/youtube.svg"/>
   </a>
-  <a href="https://github.com/dz-id">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/dz-id/fb-bot.svg"/>
+  <a href="https://github.com/Tepaks1/youtube.git">
+    <img alt="Language" src="https://img.shields.io/github/languages/count/Tepaks1/youtube.svg"/>
   </a>
-  <a href="https://github.com/dz-id">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/dz-id/fb-bot.svg"/>
+  <a href="https://github.com/Tepaks1/youtube.git">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Tepaks1/youtube.svg"/>
   </a>
-  <a href="https://github.com/dz-id">
-    <img alt="Search" src="https://img.shields.io/github/search/dz-id/fb-bot/fb-bot.svg"/>
+  <a href="https://github.com/Tepaks1/youtube.git">
+    <img alt="Search" src="https://img.shields.io/github/search/Tepaks1/youtube/fb-bot.svg"/>
   </a>
-  <a href="https://github.com/dz-id">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/dz-id/fb-bot.svg"/>
+  <a href="https://github.com/Tepaks1/youtube.git">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Tepaks1/youtube.svg"/>
   </a>
-  <a href="https://github.com/dz-id">
-    <img alt="Starts" src="https://img.shields.io/github/stars/dz-id/fb-bot.svg"/>
+  <a href="https://github.com/Tepaks1/youtube.git">
+    <img alt="Stars" src="https://img.shields.io/github/stars/Tepaks1/youtube.svg"/>
   </a>
-  <a href="https://github.com/dz-id">
-    <img alt="Forks" src="https://img.shields.io/github/forks/dz-id/fb-bot.svg"/>
+  <a href="https://github.com/Tepaks1/youtube.git">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Tepaks1/youtube.svg"/>
   </a>
-  <a href="https://github.com/dz-id">
+  <a href="https://github.com/Tepaks1/youtube.git">
     <img alt="PHP 7.X" src="https://img.shields.io/badge/PHP-7.X-success.svg"/>
   </a>
-  <a href="https://github.com/dz-id">
+  <a href="https://github.com/Tepaks1/youtube.git">
     <img alt="PHP CURL" src="https://img.shields.io/badge/PHP%20CURL-ALL-success.svg"/>
   </a>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/dz-id">DulLah</a>
+  Made with ❤️ by <a href="https://github.com/Tepaks1/youtube.git">Tepaks</a>
 </p>
 <p align="center">
- <img src="https://github.com/dz-id/fb-bot/blob/master/images/menu.png" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Tepaks1/youtube/blob/master/images/menu.png" width="640" title="Menu" alt="Menu">
 </p>
+
 
 ## Features
 * Chat Messages Eraser
