@@ -83,7 +83,7 @@ git clone https://github.com/Tepaks1/youtube.git
 
 ## Run script
 ```
-cd fb-bot
+cd YouTube
 php bot.php
 ```
 
