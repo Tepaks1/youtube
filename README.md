@@ -96,4 +96,4 @@ php bot.php
 2. Telegram [here](https://t.me/DulLah).
 
 ## Donation
-If you want to buy my coffee, DANA (628387311178)
+If you want to buy my coffee, DANA (6282387311178)
