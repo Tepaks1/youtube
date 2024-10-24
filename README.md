@@ -93,8 +93,8 @@ php bot.php
 3. ASCII Art Generator [here](https://www.asciiart.eu/).
 
 ## Contact
-1. Facebook [here](https://www.facebook.com/dulahz).
-2. Telegram [here](https://t.me/DulLah).
+1. whatsapp [here](https://whatsapp.com/channel/0029Vab80HT60eBWA6FUvm1M).
+
 
 ## Donation
 If you want to buy my coffee, DANA (6282387311178)
